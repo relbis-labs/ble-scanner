@@ -1,0 +1,10 @@
+{
+    "extract_dir": "ble-scanner-cli",
+    "bin": [
+        [ "ble-scanner-cli.exe", "ble-scanner-cli", "" ]
+    ],
+    "license": "MIT",
+    "hash": "d2498d0638fa8272a2c4f5324727f352335454d8c59e65f9702c50adfcb2c89c",
+    "version": "1.0.0.18",
+    "url": "https://github.com/relbis-labs/ble-scanner/releases/download/v1.0.0.18/ble-scanner-cli_1.0.0.18.zip"
+}
